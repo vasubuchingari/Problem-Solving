@@ -98,17 +98,7 @@ dll.printDllRev()
 
 
 
-#result
 
-the DLL is empty
-add BEGIN
-50 -->40 -->30 -->
-add END
-50 -->40 -->30 -->1 -->2 -->3 -->
-add AFTER
-50 -->40 -->30 -->1 -->0 -->2 -->0 -->3 -->0 -->
-REVERSED LIST
-0 <--3 <--0 <--2 <--0 <--1 <--30 <--40 <--50 <--
 
 
 

@@ -1,4 +1,4 @@
-# LeetCode Problem Solving Repository
+# Problem Solving Repository
 
 This repository is dedicated to enhancing problem-solving skills through consistent practice on LeetCode. It serves as a personal log and study guide for storing logical problem solutions, data structure and algorithm (DSA) concepts, and data basics.
 

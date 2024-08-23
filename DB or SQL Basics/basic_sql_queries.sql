@@ -1,5 +1,5 @@
 #SQL
-
+#sql
 
 select distinct country from customers;
 

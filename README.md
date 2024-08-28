@@ -1,6 +1,6 @@
 # 🚀 Welcome Skill boosters!
 
-This repository is dedicated to enhancing your problem solving skills through consistent practice of logical problems and the study of key data structures, algorithms, and SQL basics.
+***This repository is dedicated to enhancing your problem solving skills through consistent practice of logical problems and the study of key data structures, algorithms, and SQL basics.***
 
 ## 🎯 Purpose
 

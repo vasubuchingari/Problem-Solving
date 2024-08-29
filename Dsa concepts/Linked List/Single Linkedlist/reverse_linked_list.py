@@ -44,7 +44,7 @@ ll.reverseLL()
 ll.printLL()
 
 #output
-The linked list is empty!
-add BEGIN
-50 -> 40 -> 30 -> 
-30 -> 40 -> 50 -> 
+# The linked list is empty!
+# add BEGIN
+# 50 -> 40 -> 30 -> 
+# 30 -> 40 -> 50 -> 
